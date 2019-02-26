@@ -1,10 +1,9 @@
 {
-    "name": "pxt-ir2",
+    "name": "pxt-ir2_100v",
     "version": "0.0.0",
-    "description": "",
+    "description": "TFW-IR2; controller for OCR-05W IR remote receptacle",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
@@ -13,6 +12,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
-    "installedVersion": "workspace:77757a4b-7642-4847-1cef-f55bc337e8a9"
+    "public": true
 }
